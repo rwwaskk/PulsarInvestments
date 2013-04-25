@@ -35,10 +35,10 @@
           <div class="navbar-inner">
             <div class="container">
               <ul class="nav">
-                <li class="active"><a href="#">Home</a></li>
-                <li class="inactive"><a href="services.php">Services</a></li>
+                <li class="inactive"><a href="index.php">Home</a></li>
+                <li class="active"><a href="services.php">Services</a></li>
                 <li class="inactive"><a href="about.php">About</a></li>
-                <li class="inactive"><a href="#">Contact</a></li>
+                <li class="inactive"><a href="contact.php">Contact</a></li>
               </ul>
             </div>
           </div>
@@ -46,11 +46,7 @@
       </div>
 
       <!-- Jumbotron -->
-      <div class="jumbotron">
-        <h2>Investment With Pulsar, The Best Choice In Life</h2>
-        <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-        <a class="btn btn-large btn-success" href="#">Get started today</a>
-      </div>
+ 
 
       <hr>
 

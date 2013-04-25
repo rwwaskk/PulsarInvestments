@@ -35,43 +35,28 @@
           <div class="navbar-inner">
             <div class="container">
               <ul class="nav">
-                <li class="active"><a href="#">Home</a></li>
+                <li class="inactive"><a href="index.php">Home</a></li>
                 <li class="inactive"><a href="services.php">Services</a></li>
                 <li class="inactive"><a href="about.php">About</a></li>
-                <li class="inactive"><a href="#">Contact</a></li>
+                <li class="active"><a href="contact.php">Contact</a></li>
               </ul>
             </div>
           </div>
         </div><!-- /.navbar -->
       </div>
 
-      <!-- Jumbotron -->
+         <!-- Jumbotron -->
       <div class="jumbotron">
-        <h2>Investment With Pulsar, The Best Choice In Life</h2>
+        <h2>Call 1-800-PULSAR</h2>
         <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-        <a class="btn btn-large btn-success" href="#">Get started today</a>
+        
       </div>
+ 
 
       <hr>
 
       <!-- Example row of columns -->
-      <div class="row-fluid">
-        <div class="span4">
-          <h2>Investments</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
-        </div>
-        <div class="span4">
-          <h2>Personal Finance</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
-       </div>
-        <div class="span4">
-          <h2>Small Business</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.</p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
-        </div>
-      </div>
+      
 
       <hr>
 
